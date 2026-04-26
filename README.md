@@ -341,3 +341,17 @@ We welcome contributions from the community! Please see our [Contributing Guidel
 ## License
 
 Apache 2.0 - see [LICENSE](https://github.com/MemoriLabs/Memori/blob/main/LICENSE)
+
+---
+
+## My Contribution
+
+### What I understood
+- Memori is an AI memory system that helps LLMs remember past interactions
+- It works with different LLMs like OpenAI, Gemini, etc.
+- It improves efficiency by reducing repeated context
+
+### My Next Steps
+- Explore examples in the repository
+- Try building a small chatbot using Memori
+- Contribute to documentation or beginner-friendly examples
